@@ -24,3 +24,12 @@ void main()
             }
                     printf("%d %d",X,Y);
 }
+
+
+// #include <iostream>
+// using namespace std;
+
+// int main() {
+//   cout << "Hello World!";
+//   return 0;
+// }
