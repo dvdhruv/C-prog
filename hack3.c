@@ -24,6 +24,7 @@ void main()
             }
                     printf("%d %d",X,Y);
 }
+// #include <iostream>
 
 
 // #include <iostream>
