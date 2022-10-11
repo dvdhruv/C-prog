@@ -9,6 +9,8 @@ void main()
     {
         N=N/10;
         count++;
+        // #include <iostream>
+
     }
     while(N>0)
     {
@@ -109,20 +111,6 @@ void main()
 //   cout << "Hello World!";
 //   return 0;
 // }
-// #include <iostream>
-// using namespace std;
-
-// int main() {
-//   cout << "Hello World!";
-//   return 0;
-// }
-
-// #include <iostream>
-// using namespace std;
-
-// int main() {
-//   cout << "Hello World!";
-//   r
 
 // #include <iostream>
 // using namespace std;
